@@ -7,7 +7,7 @@
 📍 **Location:** Indonesia  
 📧 **Email:** [citradianiputri@gmail.com](mailto:citradianiputri@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/citraputri24](https://www.linkedin.com/in/citraputri24)  
-🔗 **GitHub:** [github.com/citraputri24](https://github.com/citraput)  
+🔗 **GitHub:** [github.com/citraput](https://github.com/citraput)  
 
 ---
 
