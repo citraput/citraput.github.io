@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img/ASPK8779.jpg" width="100px" style="border-radius: 50%;">
+</p>
+
 # Citra Diani Putri  
 
 ### Business Intelligence/Data Science/Data Analyst  
