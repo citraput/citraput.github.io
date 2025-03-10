@@ -3,6 +3,8 @@ layout: default
 title: "Citra Diani Putri"
 ---
 
+<img src="https://your-image-url.jpg" width="150px" style="border-radius: 50%; display: block; margin: auto;">
+
 # Data Scientist & Business Intelligence  
 
 **Technical Skills**: Python, SQL, Tableau, Power BI  
