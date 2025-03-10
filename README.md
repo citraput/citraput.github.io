@@ -1,6 +1,6 @@
 # Citra Diani Putri (Citra)
 
-### Business Intelligence/Data Science/Data Analyst  
+### Business Intelligence/Data Scientist/Data Analyst  
 
 📍 **Location:** Indonesia  
 📧 **Email:** [citradianiputri@gmail.com](mailto:citradianiputri@gmail.com)  
