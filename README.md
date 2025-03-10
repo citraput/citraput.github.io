@@ -63,8 +63,7 @@
 ### **📌 A/B Testing: Spotify Case** ###
 - **Goal:** Evaluate the Impact of the New Feature, Analyze Key User Metrics, Support Data-Driven Decision Making
 - **Tools:** Python, Statistical Analysis
-🔗 [View Project](https://drive.google.com/file/d/1_GLsfPQfcN4x4jpfH1Pkc-FTxcRT__6L/view?usp=sharing](https://drive.google.com/file/d/1Hhxi_IAB_gbKlZoubZn8MNofQw2leKYo/view?usp=sharing)
-
+- 🔗 [View Project](https://drive.google.com/file/d/1Hhxi_IAB_gbKlZoubZn8MNofQw2leKYo/view?usp=sharing)
 ---
 
 ## **📜 Blogs**  
