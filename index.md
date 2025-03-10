@@ -1,9 +1,32 @@
 ---
-layout: none
+layout: default
+title: "Citra Diani Putri"
 ---
 
-# Welcome to My Portfolio
-Hi, I am **Citra Diani Putri**, a Data Scientist and Business Intelligence professional.
-- 📊 Expertise in Market Research & Competitive Analysis
-- 🛠️ Skilled in Tableau, SQL, and Python  
-- 📩 Contact: [citradianiputri@gmail.com](mailto:citradianiputri@gmail.com)
+# Data Scientist & Business Intelligence  
+
+**Technical Skills**: Python, SQL, Tableau, Power BI  
+
+## Education  
+- 🎓 **MSc in Computer Science with Data Analytics**  
+  *University of York (Distinction)*
+- 🎓 **BSc in Electrical Engineering**  
+  *Institut Teknologi Bandung (Very Good)*  
+
+## Work Experience  
+**Data Analyst @ PT PLN (Persero)**  
+- Developed a real-time dashboard for monitoring high-voltage distribution.  
+- Conducted operational performance evaluations to improve efficiency.  
+
+**Customer Analytics @ XL Axiata**  
+- Analyzed customer behavior using SQL & Tableau.  
+- Provided insights on market trends and business opportunities.  
+
+## Skills  
+- ✅ Business Intelligence (Tableau, Power BI)  
+- ✅ Data Science and Analytics (SQL, Python)  
+- ✅ Market Research & Competitive Analysis  
+
+## Bootcamp  
+- 📌 **Business Intelligence Bootcamp** – Dibimbing.id (Most Valuable Person)  
+- 📌 **Mastering Artificial Intelligence** – Skill Academy  
