@@ -2,7 +2,7 @@
 
 📍 **Location:** Indonesia  
 📧 **Email:** [citradianiputri@gmail.com](mailto:citradianiputri@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/citraputri24](https://www.linkedin.com/in/citraputri24)  
+📷 **Instagram:** [https://www.instagram.com/citradianyp/](https://www.instagram.com/citradianyp/)  
 🔗 **GitHub:** [github.com/citraput](https://github.com/citraput)  
 💍 **Husband**: [Muhammad Naufal Lintangpradipto](https://www.linkedin.com/in/muhammad-naufal-lintangpradipto-946654b6/?originalSubdomain=sa)  
 
@@ -80,4 +80,4 @@
 ---
 
 📢 **Let's connect and collaborate!** 🚀  
-🔗 [LinkedIn](https://www.linkedin.com/in/citraputri24) | 🔗 [GitHub](https://github.com/citraput) | 📧 [Email Me](mailto:citradianiputri@gmail.com) 
+🔗 [GitHub](https://github.com/citraput) | 📧 [Email Me](mailto:citradianiputri@gmail.com) 
