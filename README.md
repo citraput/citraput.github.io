@@ -45,15 +45,25 @@
 ---
 
 ## **📂 Projects**  
-### **📌 Marketing Campaign Performance Analysis**  
-- **Goal:** Analyzed customer engagement and conversion rates for targeted marketing campaigns.  
+### **📌 Strategy Insights for All-U-Need Mart**  
+- **Goal:** Setting data-driven strategies to improve efficiency, customer relationships, and profitability as the new quarter approaches. 
 - **Tools:** Python, Tableau, SQL  
-🔗 [View Project]()  
+🔗 [View Project](https://drive.google.com/file/d/1Vqqenn0vl1VaueYGl2FaHhJG84Ei10lk/view?usp=sharing)  
 
-### **📌 Customer Segmentation with RFM Analysis**  
-- **Goal:** Performed **RFM segmentation** to optimize business strategies.  
+### **📌 Analyzing Customer Purchasing Behavior and Campaign Impact Across Marketing Channels**  
+- **Goal:** Performed **RFM segmentation**, **Churn Prediction**, and **Tableau Data Visualization** to optimize business strategies.  
 - **Tools:** Python, Scikit-Learn, Tableau  
-🔗 [View Project]()  
+🔗 [View Project](https://drive.google.com/file/d/1omcU7pDiIz3M5lVkygL84NzML4cr5esZ/view?usp=sharing)
+
+### **📌 Uplift Modeling** ###
+- **Goal:** Measure and compare the effectiveness of the Discount (Control) versus the Buy One Get One (Treatment) offer using uplift modeling.  
+- **Tools:** Python, Scikit-learn
+🔗 [View Project](https://drive.google.com/file/d/1_GLsfPQfcN4x4jpfH1Pkc-FTxcRT__6L/view?usp=sharing)
+
+### **📌 A/B Testing: Spotify Case** ###
+- **Goal:** Evaluate the Impact of the New Feature, Analyze Key User Metrics, Support Data-Driven Decision Making
+- **Tools:** Python, Statistical Analysis
+🔗 [View Project](https://drive.google.com/file/d/1_GLsfPQfcN4x4jpfH1Pkc-FTxcRT__6L/view?usp=sharing](https://drive.google.com/file/d/1Hhxi_IAB_gbKlZoubZn8MNofQw2leKYo/view?usp=sharing)
 
 ---
 
