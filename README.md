@@ -40,7 +40,7 @@
 
 ## **📊 Bootcamp & Certifications**  
 📌 **Business Intelligence Bootcamp** – Dibimbing.id (Most Valuable Person)  
-📌 **Mastering Artificial Intelligence** – Skill Academy 
+📌 **Mastering Artificial Intelligence** – Skill Academy by Ruangguru
 📌 **Data Science & Machine Learning** – Purwadhika 
 
 ---
@@ -49,20 +49,17 @@
 ### **📌 Marketing Campaign Performance Analysis**  
 - **Goal:** Analyzed customer engagement and conversion rates for targeted marketing campaigns.  
 - **Tools:** Python, Tableau, SQL  
-- **Results:** Identified key customer segments with **30% higher conversion rates**.  
 🔗 [View Project]()  
 
 ### **📌 Customer Segmentation with RFM Analysis**  
 - **Goal:** Performed **RFM segmentation** to optimize business strategies.  
 - **Tools:** Python, Scikit-Learn, Tableau  
-- **Results:** Increased **customer retention by 15%** through personalized marketing.  
 🔗 [View Project]()  
 
 ---
 
-## **📜 Publications & Blogs**  
-✍️ **Medium Blog:** [medium.com/@citraputri24](https://medium.com/@citraputri24)  
-
+## **📜 Blogs**  
+✍️ **Medium Blog:** [https://citraputsof.medium.com/](https://citraputsof.medium.com/)  
 ---
 
 📢 **Let's connect and collaborate!** 🚀  
