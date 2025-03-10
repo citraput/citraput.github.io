@@ -38,10 +38,10 @@
 ---
 
 ## **📊 Bootcamp & Certifications**  
-📌 **Business Intelligence Bootcamp** – Dibimbing.id (Most Valuable Person)  
-📌 **Mastering Artificial Intelligence** – Skill Academy by Ruangguru
-📌 **Data Science & Machine Learning** – Purwadhika 
-
+- 📌 **Business Intelligence Bootcamp** – Dibimbing.id (Most Valuable Person)  
+- 📌 **Mastering Artificial Intelligence** – Skill Academy by Ruangguru  
+- 📌 **Data Science & Machine Learning** – Purwadhika
+  
 ---
 
 ## **📂 Projects**  
