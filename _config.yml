@@ -1,5 +1,8 @@
-title: " "
-# logo: /assets/img/circle.png
-# description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+# title: " "
+# # logo: /assets/img/circle.png
+# # description: text below image
+# show_downloads: true
+# theme: jekyll-theme-minimal
+
+title: "Citra Diani Putri"
+remote_theme: pages-themes/slate@v0.2.0
