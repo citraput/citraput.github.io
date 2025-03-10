@@ -1,13 +1,12 @@
-# citraput.github.io
-
 # Citra Diani Putri  
 
-### Business Intelligence & Data Science  
+### Business Intelligence/Data Science/Data Analyst  
 
 📍 **Location:** Indonesia  
 📧 **Email:** [citradianiputri@gmail.com](mailto:citradianiputri@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/citraputri24](https://www.linkedin.com/in/citraputri24)  
 🔗 **GitHub:** [github.com/citraput](https://github.com/citraput)  
+💍 **Husband**: [Muhammad Naufal Lintangpradipto](https://www.linkedin.com/in/muhammad-naufal-lintangpradipto-946654b6/?originalSubdomain=sa)  
 
 ---
 
