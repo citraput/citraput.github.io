@@ -1,5 +1,3 @@
-# Citra Diani Putri (Citra)
-
 ### Business Intelligence/Data Scientist/Data Analyst  
 
 📍 **Location:** Indonesia  
